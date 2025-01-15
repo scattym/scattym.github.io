@@ -1,10 +1,10 @@
 # scattym.github.io
 
-self link -> https://scattym.github.io
+self link -> https://scattym.github.io <BR>
 
-github location -> https://github.com/scattym/
+github location -> https://github.com/scattym/ <BR>
 
-apache exporter tuned for usp origin -> https://github.com/scattym/usporigin_apache_exporter
+apache exporter tuned for usp origin -> https://github.com/scattym/usporigin_apache_exporter <BR>
 
 POC embedded application for the simcom5360 line of chips -> https://github.com/scattym/lua-tool-simreporter
 
