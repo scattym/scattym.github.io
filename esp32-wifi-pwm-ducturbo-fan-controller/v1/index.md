@@ -5,7 +5,6 @@ This project provides a comprehensive solution for controlling an inline duct fa
 ## Features
 
 * **PWM Fan Control:** Precisely control the speed of your inline duct fan using Pulse Width Modulation (PWM) for optimal airflow and noise reduction. Compatible with a wide range of fans, including:
-    * **Standard Inline Duct Fans:**  Most standard inline duct fans with PWM support.
     * **TerraBloom Fans:**  Directly compatible with TerraBloom fans via a 4-pin 3.5mm jack on the board.
     * **DucTurbo Fans:** Directly compatible with DucTurbo fans via a 4-pin 3.5mm jack on the board.
     * **AC Infinity Fans:**  Compatible with AC Infinity fans with a minor modification to the PWM circuit (a resistor smaller than 1k must be used).  See the [modification guide](link-to-modification-guide) for details. 
