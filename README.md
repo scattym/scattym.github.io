@@ -1,4 +1,4 @@
-# scattym.github.io
+    # scattym.github.io
 
 self link -> <a href="https://scattym.github.io">https://scattym.github.io</a>
 
@@ -15,5 +15,5 @@ POC project to emulate taxi fare data from an esp32 -> <a href="https://github.c
 POC project to emulate obd2 data from an esp32 -> <a href="https://github.com/scattym/esp32-obd2-emulator">https://github.com/scattym/esp32-obd2-emulator</a>
 
 Kicad project for esp32 based PWM fan controller for the ducturbo, terrabloom and ac infinity inline duct fans -> <a href="https://github.com/scattym/kicad-duct-turbo-fan-controller">https://github.com/scattym/kicad-duct-turbo-fan-controller</a>
-
+Info page -> <a href="https://scattym.github.io/esp32-wifi-pwm-ducturbo-fan-controller/v1/index">https://scattym.github.io/esp32-wifi-pwm-ducturbo-fan-controller/v1/index</a>
 
