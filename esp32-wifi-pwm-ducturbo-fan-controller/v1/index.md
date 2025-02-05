@@ -2,6 +2,8 @@
 
 This project provides a comprehensive solution for controlling an inline duct fan using an ESP32 microcontroller with ESPHome, all housed on a custom-designed PCB.  The project incorporates environmental monitoring with an SCD41 CO2, temperature, and humidity sensor, and efficient power delivery with a buck converter module.
 
+<a href="https://github.com/scattym/kicad-duct-turbo-fan-controller/">Kicad Ducturbo Fan Controller Github Repository</a>
+
 ## Features
 
 * **PWM Fan Control:** Precisely control the speed of your inline duct fan using Pulse Width Modulation (PWM) for optimal airflow and noise reduction. Compatible with a wide range of fans, including:
