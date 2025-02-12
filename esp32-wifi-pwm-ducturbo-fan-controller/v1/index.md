@@ -1,4 +1,4 @@
-# Inline Duct Fan Controller with ESP32 and ESPHome
+# Duct Fan Controller with ESP32 and ESPHome - Ducturbo / AC Infinity / Terrabloom
 
 This project provides a comprehensive solution for controlling an inline duct fan using an ESP32 microcontroller with ESPHome, all housed on a custom-designed PCB.  The project incorporates environmental monitoring with an SCD41 CO2, temperature, and humidity sensor, and efficient power delivery with a buck converter module.
 
